@@ -13,13 +13,12 @@
 
 
 @media screen and (max-width: 675px) {
-    .header{
-  
-    }
+
     .banner .content .text h1 {
         font-size: 25px;
         line-height: 5px;
         margin-bottom: 0px;
+        color: black;
         
     }
   
@@ -27,6 +26,27 @@
         font-size: 15px ;
         width: 100%;
         line-height: 48px
+    }
+      
+  }
+
+
+  
+@media screen and (max-width: 380px) {
+
+    .banner .content .text h1 {
+        font-size: 20px;
+        line-height: 5px;
+        margin-bottom: -3px;
+        color: black;
+        display: inline;
+        
+    }
+  
+    .banner .content .text p{
+        font-size: 15px ;
+        width: 100%;
+        line-height: 17px
     }
       
   }
