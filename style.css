@@ -1,6 +1,4 @@
 
-
-
 .header{
     background-color:transparent;
     background: url("Images/laptop3.jpg");
@@ -10,6 +8,7 @@
     background-position: center;
 
 }
+
 .navbar-brand{
     text-transform: uppercase;
     font-size: 25px;
@@ -75,11 +74,9 @@
 }
 
 .services .service-box .inside-box{
-    padding-top:15px ;
+    padding-top:15px;
 }
-.services .service-box i{
-    /* color: #ef7181; */
-}
+
 
 
 .carousel-item img{
