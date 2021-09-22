@@ -1,6 +1,27 @@
-@media only screen and (max-width:908px) {
-    .services h1 {
-        font-size:24px ;
-        color: red;
-    }
+@media screen and (max-width: 908px) {
+  .banner .content .text h1 {
+      font-size: 45px;
+      line-height: 0px
+  }
+
+  .banner .content .text p{
+      width: 80%;
+      line-height: 24px
+  }
+    
 }
+
+
+@media screen and (max-width: 675px) {
+    .banner .content .text h1 {
+        font-size: 25px;
+        line-height: 5px
+    }
+  
+    .banner .content .text p{
+        font-size: 15px ;
+        width: 100%;
+        line-height: 5px
+    }
+      
+  }
