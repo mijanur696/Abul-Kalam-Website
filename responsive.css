@@ -13,15 +13,20 @@
 
 
 @media screen and (max-width: 675px) {
+    .header{
+  
+    }
     .banner .content .text h1 {
         font-size: 25px;
-        line-height: 5px
+        line-height: 5px;
+        margin-bottom: 0px;
+        
     }
   
     .banner .content .text p{
         font-size: 15px ;
         width: 100%;
-        line-height: 5px
+        line-height: 48px
     }
       
   }
